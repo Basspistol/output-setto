@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://setto.basspistol.com/sitemap.xml

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+  <channel>
+    <title>徒 setto セット</title>
+    <atom:link href="https://setto.basspistol.com/rss.xml" rel="self" type="application/rss+xml" />
+    <link>https://setto.basspistol.com</link>
+    <description>Set, Party, Gang! &amp;#35;Cybersoul</description>
+    <lastBuildDate>Mon, 16 Dec 2019 23:42:17 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>weekly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://jekyllrb.com/</generator>
+
+    <image>
+      <url>https://setto.basspistol.com/assets/img/setto_logo.png</url>
+      <title>徒 setto セット</title>
+      <link>https://setto.basspistol.com</link>
+      <width>128</width>
+      <height>128</height>
+    </image> 
+    <itunes:summary><![CDATA[Set, Party, Gang! &#35;Cybersoul]]></itunes:summary>
+    <itunes:author>徒 setto セット</itunes:author>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://setto.basspistol.com/assets/img/setto_logo.png" />
+    <itunes:owner>
+      <itunes:name>徒 setto セット</itunes:name>
+      <itunes:email>setto@protonmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>setto@protonmail.com</managingEditor>
+    <copyright>Anti-Copyright 2018 徒 setto セット</copyright>
+    <itunes:subtitle>徒 setto セット</itunes:subtitle>
+    <itunes:category text="Music">
+    </itunes:category>
+    <rawvoice:rating>TV-14</rawvoice:rating>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+  
+  </channel>
+</rss>
