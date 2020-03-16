@@ -5,5 +5,5 @@ https://setto.basspistol.com/robots.txt
 https://setto.basspistol.com/rss.xml
 https://setto.basspistol.com/search.json
 https://setto.basspistol.com/sitemap.txt
-https://setto.basspistol.com/assets/css/style.css
+https://setto.basspistol.com/assets/css/style20200316.css
 https://setto.basspistol.com/sitemap.xml
