@@ -241,7 +241,7 @@ NAV MENU
 
 @font-face { font-family: 'Astloch-B'; src: url("../fonts/Astloch-Bold.ttf"); font-weight: bold; font-style: normal; }
 
-body { font-family: Major, Helvetica, Arial, sans-serif; color: #9bc9b5; font-size: 1em; background-color: #190086; }
+body { font-family: Astloch, Helvetica, Arial, sans-serif; color: #9bc9b5; font-size: 1em; background-color: #190086; }
 
 canvas { overflow-x: hidden; position: fixed; top: 0; left: 0; height: 100%; width: 100%; z-index: -1; }
 
@@ -257,7 +257,7 @@ p { font-family: Astloch-B, Helvetica, Arial, sans-serif; font-size: 2em; }
 
 b, strong { font-weight: bold; }
 
-a { font-family: MajorB; text-decoration: none; color: #fff; transition-property: color; transition: color 0.5s ease-in-out; }
+a { font-family: Astloch-B; text-decoration: none; color: #fff; transition-property: color; transition: color 0.5s ease-in-out; }
 
 a:hover { color: #ff00b6; transition-property: color; transition: color 0.5s ease-in-out; }
 
