@@ -85,18 +85,24 @@
 
 
 <!-- Banner -->
-<section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center">
+<section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center" style="height:100vh;background-color: rgba(13,13,13,0.85);">
+  <div class="content editable" data-cms-source="/_layouts/post.html" data-cms-index="0">
+    <h1 class="editable" data-cms-source="/_layouts/post.html" data-cms-index="1">Satoshi Mon Ami</h1>
+    <p>The 2 tracks of laid back cloud rap are tales of daily digital life-struggles. When day-to-day communication blurs the line between the virtual and real.</p>
+    <ul class="actions stacked">
+      <li><a href="#moe" class="button small smooth-scroll-middle">cheggit!</a></li>
+    </ul>
+  </div>
   <div class="image">
-    <img src="../assets/img/satoshimonami.jpg" alt="" class="editable" data-cms-source="/_layouts/post.html" data-cms-index="0" />
+    <img src="../assets/img/satoshimonami.jpg" alt="Satoshi Mon Ami" class="editable" data-cms-source="/_layouts/post.html" data-cms-index="2" />
   </div>
 </section>
 <!-- Content -->
 <section class="wrapper style1 align-center">
-  <div class="inner">
-    <h1>Satoshi Mon Ami</h1>
+  <div class="inner" style="padding-top: 40px;">
     <div class="index align-left">
       <!-- Author -->
-      <section>
+      <section style="padding-top:40px;" id="moe">
         
 
 <header id="author">
@@ -144,77 +150,55 @@
 
 <p>Being close to someone, without them knowing, anonymously and obsessively through a device. Decrypting interconnected sub-stories from every node in the graph and losing your mind on it.What’s the latest story? FOMO to the max, The Fear Of Missing Out!</p>
 
-
+          <p></p>
           
-        </div>
-      </section>
-    </div>
-  </div>
-</section>
-
-<!-- HERE BEGINS MADNESS -->
-
-
-
-
-<!-- Content -->
-<section class="wrapper style1 align-center">
-  <div class="inner">
-    <div class="index align-left">
-      <!-- Author -->
-      <section>
-        <header>
-          <h3>Data</h3>
-        </header>
-        <!-- Content -->
-        <div class="content">
+          <!-- HERE BEGINS MADNESS -->
           
-          <p>Style:
-            <strong>Cyber Soul</strong><br />
-            2018</p>
-          <p>Track list:<br />
-            
-            1. <strong>K'as-tu fait de nous?</strong> <span id="kastufaitdenous"></span> <br />
-            <script type="text/javascript">
-              var kastufaitdenoustimestamp = 305;
-              var kastufaitdenoushours = Math.floor(kastufaitdenoustimestamp / 60 / 60);
-              var kastufaitdenousminutes = Math.floor(kastufaitdenoustimestamp / 60) - (kastufaitdenoushours * 60);
-              var kastufaitdenousseconds = kastufaitdenoustimestamp % 60;
-              var kastufaitdenousformatted = kastufaitdenoushours.toString().padStart(2, '0') + ':' + kastufaitdenousminutes.toString().padStart(2, '0') + ':' + kastufaitdenousseconds.toString().padStart(2, '0');
-              var theSpan = document.getElementById("kastufaitdenous");
-              theSpan.innerHTML = kastufaitdenousformatted;
-            </script>
-            
-            2. <strong>Rêve de toi</strong> <span id="rêvedetoi"></span> <br />
-            <script type="text/javascript">
-              var rêvedetoitimestamp = 186;
-              var rêvedetoihours = Math.floor(rêvedetoitimestamp / 60 / 60);
-              var rêvedetoiminutes = Math.floor(rêvedetoitimestamp / 60) - (rêvedetoihours * 60);
-              var rêvedetoiseconds = rêvedetoitimestamp % 60;
-              var rêvedetoiformatted = rêvedetoihours.toString().padStart(2, '0') + ':' + rêvedetoiminutes.toString().padStart(2, '0') + ':' + rêvedetoiseconds.toString().padStart(2, '0');
-              var theSpan = document.getElementById("rêvedetoi");
-              theSpan.innerHTML = rêvedetoiformatted;
-            </script>
-            
-          </p>
- 
           
-
-
-        </div>
-
-      </section>
-
+          
+          
+          <!-- Content -->
+          <div class="content">
+            
+            <p>Style:
+              <strong>Cyber Soul</strong></p>
+            <p>Track list:<br />
+              
+              1. <strong>K'as-tu fait de nous?</strong> <span id="kastufaitdenous"></span> <br />
+              <script type="text/javascript">
+                var kastufaitdenoustimestamp = 305;
+                var kastufaitdenoushours = Math.floor(kastufaitdenoustimestamp / 60 / 60);
+                var kastufaitdenousminutes = Math.floor(kastufaitdenoustimestamp / 60) - (kastufaitdenoushours * 60);
+                var kastufaitdenousseconds = kastufaitdenoustimestamp % 60;
+                var kastufaitdenousformatted = kastufaitdenoushours.toString().padStart(2, '0') + ':' + kastufaitdenousminutes.toString().padStart(2, '0') + ':' + kastufaitdenousseconds.toString().padStart(2, '0');
+                var theSpan = document.getElementById("kastufaitdenous");
+                theSpan.innerHTML = kastufaitdenousformatted;
+              </script>
+              
+              2. <strong>Rêve de toi</strong> <span id="rêvedetoi"></span> <br />
+              <script type="text/javascript">
+                var rêvedetoitimestamp = 186;
+                var rêvedetoihours = Math.floor(rêvedetoitimestamp / 60 / 60);
+                var rêvedetoiminutes = Math.floor(rêvedetoitimestamp / 60) - (rêvedetoihours * 60);
+                var rêvedetoiseconds = rêvedetoitimestamp % 60;
+                var rêvedetoiformatted = rêvedetoihours.toString().padStart(2, '0') + ':' + rêvedetoiminutes.toString().padStart(2, '0') + ':' + rêvedetoiseconds.toString().padStart(2, '0');
+                var theSpan = document.getElementById("rêvedetoi");
+                theSpan.innerHTML = rêvedetoiformatted;
+              </script>
+              
+            </p>
+          </div>
+      </div></section>
     </div>
   </div>
 </section>
 <!-- Tracks -->
-<section id="news" class="wrapper style1 align-center">
+<section id="albumdata" class="wrapper style1 align-center">
   <div class="gallery style1 medium lightbox onscroll-fade-in">
     
     <article>
       <a href="../satoshi-mon-ami/1-k-as-tu-fait-de-nous-/" class="image">
-        <img src="../assets/albums/satoshi-mon-ami/1-k-as-tu-fait-de-nous-.jpeg" alt="" />
+        <img src="../assets/albums/satoshi-mon-ami/1-k-as-tu-fait-de-nous-.jpeg" alt="K'as-tu fait de nous?" />
       </a>
       <div class="caption">
         <h3>K'as-tu fait de nous?</h3>
@@ -222,14 +206,14 @@
           <strong>Cyber Soul</strong>
           <br />2018</p>
         <ul class="actions fixed">
-          <li><span class="editable button small icon fa-play-circle" data-cms-source="/_layouts/post.html" data-cms-index="1">Play</span></li>
+          <li><span class="editable button small icon fa-play-circle" data-cms-source="/_layouts/post.html" data-cms-index="3">Play</span></li>
         </ul>
       </div>
     </article>
     
     <article>
       <a href="../satoshi-mon-ami/2-r-ve-de-toi/" class="image">
-        <img src="../assets/albums/satoshi-mon-ami/2-r-ve-de-toi.jpeg" alt="" />
+        <img src="../assets/albums/satoshi-mon-ami/2-r-ve-de-toi.jpeg" alt="Rêve de toi" />
       </a>
       <div class="caption">
         <h3>Rêve de toi</h3>
@@ -237,13 +221,13 @@
           <strong>Cyber Soul</strong>
           <br />2018</p>
         <ul class="actions fixed">
-          <li><span class="editable button small icon fa-play-circle" data-cms-source="/_layouts/post.html" data-cms-index="1">Play</span></li>
+          <li><span class="editable button small icon fa-play-circle" data-cms-source="/_layouts/post.html" data-cms-index="3">Play</span></li>
         </ul>
       </div>
     </article>
     
     <section style="margin-top:40px;">
-      
+
       <section class="streambox">
 <h3 style="text-align: center;display: block;">Buy</h3>
 <div class="streamer">
@@ -510,7 +494,7 @@ Fois en moi, mais cette fois, toujours pas toi
 </div>
 </section>
       <section>
-        
+
         <!-- Content -->
         <div class="content">
           <!-- post Naviation -->
@@ -531,7 +515,7 @@ Fois en moi, mais cette fois, toujours pas toi
           <!-- End Post Navigation -->
         </div>
       </section>
-      
+
     </div>
   </div>
 </section>
