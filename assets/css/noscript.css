@@ -226,7 +226,7 @@ div.content img { width: 100%; height: auto; }
 .cms-editor-active .editor-link { display: block; }
 
 /* cookies */
-#cookie-notice { padding: 15px; display: none; text-align: right; position: fixed; bottom: 0; width: 100%; background-color: #333; flex-wrap: wrap; justify-content: space-evenly; align-content: center; align-items: center; }
+#cookie-notice { padding: 15px; display: none; text-align: right; position: fixed; bottom: 0; width: 100%; background-color: #333; flex-wrap: wrap; justify-content: space-evenly; align-content: center; align-items: center; z-index: 1000; }
 
 #cookie-notice p { flex: 1 0 250px; margin: 0; font-size: 12px; font-family: monospace; }
 
