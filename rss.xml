@@ -249,7 +249,7 @@
 </script> -->
   
 <div id="cookie-notice">
-  <p>I only use cookies if you agree to it. They don't contain any identifiable information about you, but they will just let me know if you comeback! <strong>If you accept the cookies, and come back in 2 days i'll give you a freebie!</strong> <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away and never bother with cookies again.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
+  <p>I only use cookies if you agree to it. They don't contain any identifiable information about you: they will just let me know if you comeback! <strong>If you accept the cookies, and come back in 2 days i'll give you a freebie!</strong> <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away and never bother with cookies again.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
     <a class="button small yes" href="#" id="cookie-notice-accept">Tasty Freebie!</a>
 </div>
 
