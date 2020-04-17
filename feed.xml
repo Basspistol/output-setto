@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+	<channel>
+		<title></title>
+		<description>Set, Party, Gang! &amp;#35;Cybersoul</description>		
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link>https://setto.basspistol.com</link>
+		<atom:link href="https://setto.basspistol.com/feed.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Thu, 07 Feb 2019 19:07:00 +0000</lastBuildDate>
+		
+		
+			<item>
+				<title>Darkweb</title>
+				
+				
+					<description>As dystopian as the present might seem on-line, there is always room for the strange in the cypher...</description>
+				
+				<pubDate>Thu, 07 Feb 2019 19:07:00 +0000</pubDate>
+				<link>https://setto.basspistol.com/darkweb/</link>
+				<guid isPermaLink="true">https://setto.basspistol.com/darkweb/</guid>
+			</item>
+		
+			<item>
+				<title>Satoshi Mon Ami</title>
+				
+				
+					<description>The 2 tracks of laid back cloud rap are tales of daily digital life-struggles. When day-to-day communication blurs the line between the virtual and real.</description>
+				
+				<pubDate>Mon, 17 Dec 2018 19:00:00 +0000</pubDate>
+				<link>https://setto.basspistol.com/satoshi-mon-ami/</link>
+				<guid isPermaLink="true">https://setto.basspistol.com/satoshi-mon-ami/</guid>
+			</item>
+		
+	</channel>
+</rss>

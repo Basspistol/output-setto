@@ -1,9 +1,334 @@
+<!DOCTYPE html>
+<!--
+  Based on _Story_ by html5up.net | @ajlkn
+  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  Remixed and Jekyllified by Set Hallstrom for Nordforce Technology AB
+-->
+<html lang="en">
+<head>
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Sitemap" />
+<meta name="author" content="徒 Setto セット" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Set, Party, Gang! #Cybersoul" />
+<meta property="og:description" content="Set, Party, Gang! #Cybersoul" />
+<link rel="canonical" href="https://setto.basspistol.com/sitemap.txt" />
+<meta property="og:url" content="https://setto.basspistol.com/sitemap.txt" />
+<meta property="og:site_name" content="徒 setto セット" />
+<script type="application/ld+json">
+{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://setto.basspistol.com/assets/img/setto_icon.png"},"name":"徒 Setto セット"},"url":"https://setto.basspistol.com/sitemap.txt","headline":"Sitemap","dateModified":"2020-04-06T09:09:45+00:00","author":{"@type":"Person","name":"徒 Setto セット"},"description":"Set, Party, Gang! #Cybersoul","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
+<link type="application/atom+xml" rel="alternate" href="https://setto.basspistol.com/feed.xml" title="" />
+<!-- BEGIN seo.html -->
+
+<title>Sitemap | 徒 setto セット</title>
+<meta name="dc.date.modified" scheme="ISO8601" content="2020-04-06T09:09:45+00:00" />
+<meta name="robots" content="index" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="https://setto.basspistol.com/sitemap.txt" />
+<link rel="alternate" hreflang="x-default" href="https://setto.basspistol.com/sitemap.txt" />
+<meta name="geo.region" content="BJ-ZO" />
+<meta name="geo.placename" content="Setto" />
+<meta name="geo.position" content="7.48777;2.076389" />
+<meta name="ICBM" content="7.48777, 2.076389" />
+
+<!-- Dublin Core basic info -->
+
+<meta name="dcterms.Identifier" content="https://setto.basspistol.com" />
+<meta name="dcterms.Format" content="text/html" />
+<meta name="dcterms.Relation" content="徒 setto セット" />
+<meta name="dcterms.Publisher" content="徒 setto セット" />
+<meta name="dcterms.Type" content="text/html" />
+<meta name="dcterms.Coverage" content="https://setto.basspistol.com/" />
+<meta name="dcterms.Rights" content="Copyright &copy;2020 徒 setto セット." />
+
+<meta name="dcterms.Subject" content="Set, Party, Gang! &#35;Cybersoul" />
+<meta name="dcterms.Title" content="Sitemap | 徒 setto セット" />
+<meta name="dcterms.Contributor" content="徒 setto セット" />
+<meta name="dcterms.Date" content="2020-04-17" />
+<meta name="dcterms.Description" content="" />
+
+<!-- Twitter Card -->
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@ToSettoSetto" />
+<meta name="twitter:title" content="Sitemap | 徒 setto セット" />
+<meta name="twitter:description" content="Set, Party, Gang! &#35;Cybersoul" />
+
+<meta name="twitter:image" content="" />
+
+<!-- END seo.html -->
+
+
+
+
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+<link rel="stylesheet" href="./assets/css/main.css" />
+
+<noscript><link rel="stylesheet" href="./assets/css/noscript.css" /></noscript>
+</head>
+
+<body class="is-preload" id="body">
+  <span id="top" style="display: none;"></span>
+  <!-- Wrapper -->
+  <div id="wrapper" class="divided" data-cms-content-wrapper="/_layouts/default.html">
+    
+
+
+
+
+<!-- Banner -->
+<section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center">
+  <div class="image">
+    <img src="." alt="" class="editable" data-cms-source="/_layouts/page.html" data-cms-index="0" />
+  </div>
+</section>
+<!-- Content -->
+<section class="wrapper style1 align-center">
+  <div class="inner">
+    <h1>Sitemap</h1>
+    <div class="index align-left">
+      <!-- Author -->
+      <section>
+        
+
+<header id="author">
+  <div class="bio">
+
+  
+  <h6>
+    
+    Share this page:  
+    </h6>
+  <ul class="icons"> 
+    <li><a target="_blank" rel="nofollow noopener" href="https://touch.facebook.com/sharer.php?u=https://setto.basspistol.com/sitemap.txt&amp;quote= via https://setto.basspistol.com" class="icon brands style1 fa-facebook-f"><span class="label">Facebook</span></a></li>
+    <li><a target="_blank" rel="nofollow noopener" href="https://twitter.com/share?url=https://setto.basspistol.com/sitemap.txt&amp;text=%20via%20@ToSettoSetto&amp;hashtags=" class="icon brands style1 fa-twitter"><span class="label">Twitter</span></a></li>
+    <li><a target="_blank" rel="nofollow noopener" href="https://telegram.me/share/url?url=https://setto.basspistol.com/sitemap.txt&amp;text=%20check%20@basspistolQC" class="icon brands style1 fa-telegram"><span class="label">Telegram</span></a></li>
+    <li><a target="_blank" rel="nofollow noopener" href="https://reddit.com/submit/?url=https://setto.basspistol.com/sitemap.txt&amp;title=Sitemap" class="icon brands style1 fa-reddit"><span class="label">Reddit</span></a></li>
+  </ul>
+
+
+</div>
+</header>
+        <!-- Content -->
+        <div class="content" data-cms-content-wrapper="/_layouts/page.html">
+          
 https://setto.basspistol.com/404/
+https://setto.basspistol.com/contact-success/
+https://setto.basspistol.com/cookies/
+https://setto.basspistol.com/feed.xml
+https://setto.basspistol.com/hw-jam/
 https://setto.basspistol.com/
+https://setto.basspistol.com/assets/css/main.css
+https://setto.basspistol.com/assets/css/noscript.css
 https://setto.basspistol.com/robots.txt
 https://setto.basspistol.com/rss.xml
 https://setto.basspistol.com/search.json
 https://setto.basspistol.com/sitemap.txt
 https://setto.basspistol.com/assets/css/style20200316.css
+https://setto.basspistol.com/webcreds/
 https://setto.basspistol.com/sitemap.xml
+https://setto.basspistol.com/assets/css/main.css.map
+https://setto.basspistol.com/assets/css/noscript.css.map
+
+https://setto.basspistol.com/darkweb/
+https://setto.basspistol.com/satoshi-mon-ami/
+
+        </div>
+      </section>
+    </div>
+  </div>
+</section>
+
+
+
+
+<!-- Footer -->
+<footer id="footer" class="wrapper style1 align-center">
+  <div class="footflex">
+    <div>
+      <h4>徒 setto セット</h4>
+      <p>Set, Party, Gang! &#35;Cybersoul
+      <br /><a href="mailto:setto@basspistol.com">setto@basspistol.com</a></p>
+    </div>
+    <div>
+      <ul>
+        <li><a href="#top" class="smooth-scroll-middle">Back to top</a></li>
+        <li><a href="#albums" class="smooth-scroll-middle">music</a></li>
+      </ul>
+    </div>
+    <div><img src="/assets/setto-logo-dark.svg" style="max-width:300px" /></div>
+  </div>
+  <div class="inner">
+    <ul class="icons">
+      
+      
+      <li><a target="_blank" rel="noopener nofollow" href="https://twitter.com/ToSettoSetto" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+      
+      
+      
+      <li><a target="_blank" rel="noopener nofollow" href="https://www.instagram.com/tosettosetto/" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+      
+      
+      
+      <li><a target="_blank" rel="noopener nofollow" href="https://t.me/basspistolQC" class="icon brands style2 fa-telegram"><span class="label">Telegram</span></a></li>
+      
+      
+      
+      <li><a target="_blank" rel="noopener nofollow" href="https://www.reddit.com/r/basspistol" class="icon brands style2 fa-reddit"><span class="label">Reddit</span></a></li>
+      
+      
+      <!-- <li><a href="mailto:setto@basspistol.com" class="icon style2 fa-envelope"><span class="label">Email</span></a></li> -->
+    </ul>
+    <p>&copy;2020 Basspistol | <a href="./webcreds/">Credits</a> | <a href="./cookies/">Cookies & Privacy</a></p>
+  </div>
+</footer>
+
+  </div>
+  <!-- Navigation -->
+
+<a id="logo" class="logo" href="#navbar" onclick="blurBody()">&nbsp;</a>
+<div id="navbar" style="display: block;" class="modalDialog">
+  <a href="#close" onclick="removeBlur()"><div id="closearea">  </div></a>
+  <nav>
+    <a href="#close" title="Close" onclick="removeBlur()" class="close-button close" style="margin: 0 auto;">X</a>
+    <ul> 
+
+      <li><a href="./" class="button small">Home</a></li>
+
+
+      <li><a href="./#albums" onclick="removeBlur()" class="button small smooth-scroll-middle">music</a></li>
+    </ul>
+  </nav>
+</div>
+
+
+<!-- End Navigation -->
+  <!-- Scripts -->
+
+
+
+
+<script src="./assets/js/jquery.min.js"></script>
+<script src="./assets/js/jquery.scrollex.min.js"></script>
+<script src="./assets/js/jquery.scrolly.min.js"></script>
+<script src="./assets/js/browser.min.js"></script>
+<script src="./assets/js/breakpoints.min.js"></script>
+<script src="./assets/js/util.js"></script>
+<script src="./assets/js/main.js"></script>
+<script src="./assets/js/set.js"></script>
+<!-- <script>
+  var lang = navigator.language || navigator.userLanguage;
+  if (lang.indexOf('sv') == 0)
+      window.location = '/';
+  else
+      window.location = '/en/';
+</script> -->
+  
+<div id="cookie-notice">
+  <p>I only use cookies if you agree to it. They don't contain any identifiable information about you, but they will just let me know if you comeback! <strong>If you accept the cookies, and come back in 2 days i'll give you a freebie!</strong> <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away and never bother with cookies again.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
+    <a class="button small yes" href="#" id="cookie-notice-accept">Tasty Freebie!</a>
+</div>
+
+<script>
+  function createCookie(name, value, days) {
+    var expires = "";
+    if (days) {
+      var date = new Date();
+      date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+      expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + value + expires + "; path=/";
+  }
+  function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+      if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+  }
+  function eraseCookie(name) {
+    createCookie(name, "", -1);
+  }
+
+  if (readCookie('cookie-notice-dismissed') == 'wantCookies') {
+    
+//* Matomo Tag Manager *//
+
+  var _mtm = _mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://cdn.matomo.cloud/terminalnetwork.matomo.cloud/container_kJUGWiO2.js'; s.parentNode.insertBefore(g,s);
+
+//* End Matomo Tag Manager *//
+
+
+
+  } else {
+    document.getElementById('cookie-notice').style.display = 'flex';
+
+    var _paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["disableCookies"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="https://terminalnetwork.matomo.cloud/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '11']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+
+
+  }
+  if (readCookie('cookie-notice-dismissed') == 'dontWantCookies') {
+    document.getElementById('cookie-notice').style.display = 'none';
+
+    var _paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["disableCookies"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="https://terminalnetwork.matomo.cloud/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '11']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.matomo.cloud/terminalnetwork.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+
+  }
+  document.getElementById('cookie-notice-accept').addEventListener("click", function () {
+    createCookie('cookie-notice-dismissed', 'wantCookies', 31);
+    document.getElementById('cookie-notice').style.display = 'none';
+    _paq.push(['trackEvent', 'Consent', 'wantCookie']);
+    location.reload();
+  });
+
+  document.getElementById('cookie-notice-decline').addEventListener("click", function () {
+    createCookie('cookie-notice-dismissed', 'dontWantCookies', 31);
+    document.getElementById('cookie-notice').style.display = 'none';
+    _paq.push(['trackEvent', 'Consent', 'dontWantCookie']);
+    location.reload();
+  });
+
+  // document.getElementById('cookie-notice-gimme').addEventListener("click", function () {
+  //   createCookie('cookie-notice-dismissed', 'wantCookies', 31);
+  //   document.getElementById('cookie-notice').style.display = 'none';
+  //   location.reload();
+  // });
+
+
+</script>
+</body>
+</html>

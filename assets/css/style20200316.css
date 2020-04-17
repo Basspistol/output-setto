@@ -237,9 +237,9 @@ NAV MENU
 ****************/
 @font-face { font-family: 'Plaster'; src: url("../fonts/collects.ttf"); font-weight: normal; font-style: normal; }
 
-@font-face { font-family: 'Astloch'; src: url("../fonts/Astloch-Regular.ttf"); font-weight: normal; font-style: normal; }
+@font-face { font-family: 'Astloch'; src: url("../fonts/NikkyouSans-B6aV.ttf"); font-weight: normal; font-style: normal; }
 
-@font-face { font-family: 'Astloch-B'; src: url("../fonts/Astloch-Bold.ttf"); font-weight: bold; font-style: normal; }
+@font-face { font-family: 'Astloch-B'; src: url("../fonts/NikkyouSans-B6aV.ttf"); font-weight: bold; font-style: normal; }
 
 body { font-family: Astloch, Helvetica, Arial, sans-serif; color: #9bc9b5; font-size: 1em; background-color: #190086; }
 
