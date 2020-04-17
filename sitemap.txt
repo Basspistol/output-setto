@@ -135,6 +135,7 @@ https://setto.basspistol.com/sitemap.xml
 https://setto.basspistol.com/assets/css/main.css.map
 https://setto.basspistol.com/assets/css/noscript.css.map
 
+https://setto.basspistol.com/granny-is-a-cyborg-now/
 https://setto.basspistol.com/darkweb/
 https://setto.basspistol.com/satoshi-mon-ami/
 
