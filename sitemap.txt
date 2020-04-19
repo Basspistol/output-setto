@@ -47,7 +47,7 @@
 <meta name="dcterms.Subject" content="Set, Party, Gang! &#35;Cybersoul" />
 <meta name="dcterms.Title" content="Sitemap | 徒 setto セット" />
 <meta name="dcterms.Contributor" content="徒 setto セット" />
-<meta name="dcterms.Date" content="2020-04-17" />
+<meta name="dcterms.Date" content="2020-04-19" />
 <meta name="dcterms.Description" content="" />
 
 <!-- Twitter Card -->
@@ -129,7 +129,6 @@ https://setto.basspistol.com/robots.txt
 https://setto.basspistol.com/rss.xml
 https://setto.basspistol.com/search.json
 https://setto.basspistol.com/sitemap.txt
-https://setto.basspistol.com/assets/css/style20200316.css
 https://setto.basspistol.com/webcreds/
 https://setto.basspistol.com/sitemap.xml
 https://setto.basspistol.com/assets/css/main.css.map
