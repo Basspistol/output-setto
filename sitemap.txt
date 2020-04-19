@@ -134,7 +134,8 @@ https://setto.basspistol.com/sitemap.xml
 https://setto.basspistol.com/assets/css/main.css.map
 https://setto.basspistol.com/assets/css/noscript.css.map
 
-https://setto.basspistol.com/granny-is-a-cyborg-now/
+https://setto.basspistol.com/live-with-hardware/
+https://setto.basspistol.com/cyber-grany/
 https://setto.basspistol.com/darkweb/
 https://setto.basspistol.com/satoshi-mon-ami/
 
@@ -191,20 +192,8 @@ https://setto.basspistol.com/satoshi-mon-ami/
   </div>
   <!-- Navigation -->
 
-<a id="logo" class="logo" href="#navbar" onclick="blurBody()">&nbsp;</a>
-<div id="navbar" style="display: block;" class="modalDialog">
-  <a href="#close" onclick="removeBlur()"><div id="closearea">  </div></a>
-  <nav>
-    <a href="#close" title="Close" onclick="removeBlur()" class="close-button close" style="margin: 0 auto;">X</a>
-    <ul> 
+<a id="logo" class="logo" href="/" onclick="blurBody()">&nbsp;</a>
 
-      <li><a href="./" class="button small">Home</a></li>
-
-
-      <li><a href="./#albums" onclick="removeBlur()" class="button small smooth-scroll-middle">music</a></li>
-    </ul>
-  </nav>
-</div>
 
 
 <!-- End Navigation -->

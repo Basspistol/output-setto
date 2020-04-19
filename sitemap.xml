@@ -2,15 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://setto.basspistol.com/satoshi-mon-ami/</loc>
-<lastmod>2020-04-17T14:45:03+00:00</lastmod>
+<lastmod>2020-04-19T20:35:49+00:00</lastmod>
 </url>
 <url>
 <loc>https://setto.basspistol.com/darkweb/</loc>
-<lastmod>2020-04-17T14:45:03+00:00</lastmod>
+<lastmod>2020-04-19T20:35:49+00:00</lastmod>
 </url>
 <url>
-<loc>https://setto.basspistol.com/granny-is-a-cyborg-now/</loc>
-<lastmod>2020-04-17T14:45:03+00:00</lastmod>
+<loc>https://setto.basspistol.com/cyber-grany/</loc>
+<lastmod>2020-04-19T20:35:49+00:00</lastmod>
+</url>
+<url>
+<loc>https://setto.basspistol.com/live-with-hardware/</loc>
+<lastmod>2020-04-19T20:35:49+00:00</lastmod>
 </url>
 <url>
 <loc>https://setto.basspistol.com/cyber-grany/1-grandma-got-the-ssh-keys/</loc>
@@ -33,6 +37,10 @@
 <lastmod>2020-04-17T18:04:41+00:00</lastmod>
 </url>
 <url>
+<loc>https://setto.basspistol.com/live-with-hardware/1-ep-life-of-a-dudelini/</loc>
+<lastmod>2020-04-19T20:35:49+00:00</lastmod>
+</url>
+<url>
 <loc>https://setto.basspistol.com/satoshi-mon-ami/1-k-as-tu-fait-de-nous-/</loc>
 <lastmod>2020-04-17T14:34:32+00:00</lastmod>
 </url>
@@ -42,7 +50,7 @@
 </url>
 <url>
 <loc>https://setto.basspistol.com/404/</loc>
-<lastmod>2020-04-19T13:36:22+00:00</lastmod>
+<lastmod>2020-04-19T20:35:50+00:00</lastmod>
 </url>
 <url>
 <loc>https://setto.basspistol.com/hw-jam/</loc>
@@ -50,7 +58,7 @@
 </url>
 <url>
 <loc>https://setto.basspistol.com/</loc>
-<lastmod>2020-04-19T13:36:22+00:00</lastmod>
+<lastmod>2020-04-19T20:35:50+00:00</lastmod>
 </url>
 <url>
 <loc>https://setto.basspistol.com/webcreds/</loc>

@@ -611,15 +611,15 @@ hr { border-bottom-color: rgba(0, 0, 0, 0.2); }
 .box { border-color: rgba(0, 0, 0, 0.2); }
 
 /* Button */
-input[type="submit"], input[type="reset"], input[type="button"], button, .button { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; border: 0; cursor: pointer; display: inline-block; font-weight: 700; font-family: monospace; letter-spacing: 0.125em; text-align: center; text-decoration: none; text-transform: uppercase; white-space: nowrap; font-size: 0.75rem; max-width: 20rem; height: 3.75em; line-height: 3.75em; border-radius: 3.75em; padding: 0 2.5em; text-overflow: ellipsis; overflow: hidden; }
+input[type="submit"], input[type="reset"], input[type="button"], button, .button { -moz-appearance: none; -webkit-appearance: none; -ms-appearance: none; appearance: none; -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out; border: 0; cursor: pointer; display: inline-block; font-weight: 700; font-family: monospace; letter-spacing: 0.125em; text-align: center; text-decoration: none; text-transform: uppercase; white-space: nowrap; font-size: 0.75rem; max-width: 20rem; height: 3.75em; line-height: 3.75em; border-radius: 7px; padding: 0 2.5em; text-overflow: ellipsis; overflow: hidden; }
 
 input[type="submit"].icon:before, input[type="reset"].icon:before, input[type="button"].icon:before, button.icon:before, .button.icon:before { margin-right: 0.5rem; }
 
 input[type="submit"].fit, input[type="reset"].fit, input[type="button"].fit, button.fit, .button.fit { width: 100%; }
 
-input[type="submit"].small, input[type="reset"].small, input[type="button"].small, button.small, .button.small { font-size: 0.7rem; height: 3.325em; line-height: 3.325em; border-radius: 3.325em; padding: 0 2em; }
+input[type="submit"].small, input[type="reset"].small, input[type="button"].small, button.small, .button.small { font-size: 0.7rem; height: 3.325em; line-height: 3.325em; border-radius: 7px; padding: 0 2em; }
 
-input[type="submit"].large, input[type="reset"].large, input[type="button"].large, button.large, .button.large { font-size: 0.8rem; height: 4em; line-height: 4em; border-radius: 4em; padding: 0 3em; }
+input[type="submit"].large, input[type="reset"].large, input[type="button"].large, button.large, .button.large { font-size: 0.8rem; height: 4em; line-height: 4em; border-radius: 7px; padding: 0 3em; }
 
 input[type="submit"].wide, input[type="reset"].wide, input[type="button"].wide, button.wide, .button.wide { min-width: 14em; }
 

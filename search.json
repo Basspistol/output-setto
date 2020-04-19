@@ -174,20 +174,8 @@
   </div>
   <!-- Navigation -->
 
-<a id="logo" class="logo" href="#navbar" onclick="blurBody()">&nbsp;</a>
-<div id="navbar" style="display: block;" class="modalDialog">
-  <a href="#close" onclick="removeBlur()"><div id="closearea">  </div></a>
-  <nav>
-    <a href="#close" title="Close" onclick="removeBlur()" class="close-button close" style="margin: 0 auto;">X</a>
-    <ul> 
+<a id="logo" class="logo" href="/" onclick="blurBody()">&nbsp;</a>
 
-      <li><a href="./" class="button small">Home</a></li>
-
-
-      <li><a href="./#albums" onclick="removeBlur()" class="button small smooth-scroll-middle">music</a></li>
-    </ul>
-  </nav>
-</div>
 
 
 <!-- End Navigation -->
