@@ -82,18 +82,25 @@
 
 
 <!-- Banner -->
-<section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center">
+<section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center" style="height:100vh;background-color: rgba(13,13,13,0.85);">
+
+  <div class="content">
+    <h1>Sitemap</h1>
+    <p></p>
+  </div>
+
   <div class="image">
-    <img src="." alt="" class="editable" data-cms-source="/_layouts/page.html" data-cms-index="0" />
+    <img src="" alt="unfound page" />
   </div>
 </section>
 <!-- Content -->
 <section class="wrapper style1 align-center">
   <div class="inner">
-    <h1>Sitemap</h1>
+
     <div class="index align-left">
       <!-- Author -->
       <section>
+        
         
 
 <header id="author">
@@ -114,6 +121,7 @@
 
 </div>
 </header>
+        
         <!-- Content -->
         <div class="content" data-cms-content-wrapper="/_layouts/page.html">
           
