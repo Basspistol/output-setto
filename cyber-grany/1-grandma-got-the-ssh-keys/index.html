@@ -17,9 +17,9 @@
 <meta property="og:url" content="https://setto.basspistol.com/cyber-grany/1-grandma-got-the-ssh-keys/" />
 <meta property="og:site_name" content="徒 setto セット" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-04-29T22:34:29+00:00" />
+<meta property="article:published_time" content="2020-05-06T09:04:56+00:00" />
 <script type="application/ld+json">
-{"@type":"AudioObject","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://setto.basspistol.com/assets/img/setto_icon.png"},"name":"徒 Setto セット"},"url":"https://setto.basspistol.com/cyber-grany/1-grandma-got-the-ssh-keys/","headline":"1 Grandma Got The Ssh Keys","dateModified":"2020-04-17T14:34:32+00:00","datePublished":"2020-04-29T22:34:29+00:00","author":{"@type":"Person","name":"徒 Setto セット"},"description":"Set, Party, Gang! #Cybersoul","@context":"https://schema.org"}</script>
+{"@type":"AudioObject","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://setto.basspistol.com/assets/img/setto_icon.png"},"name":"徒 Setto セット"},"url":"https://setto.basspistol.com/cyber-grany/1-grandma-got-the-ssh-keys/","headline":"1 Grandma Got The Ssh Keys","dateModified":"2020-04-17T14:34:32+00:00","datePublished":"2020-05-06T09:04:56+00:00","author":{"@type":"Person","name":"徒 Setto セット"},"description":"Set, Party, Gang! #Cybersoul","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link type="application/atom+xml" rel="alternate" href="https://setto.basspistol.com/feed.xml" title="" />
@@ -52,7 +52,7 @@
 <meta name="dcterms.Title" content="Grandma got the SSH keys - 徒 Setto セット | 徒 setto セット" />
 
 <meta name="dcterms.Contributor" content="徒 setto セット" />
-<meta name="dcterms.Date" content="2020-04-29" />
+<meta name="dcterms.Date" content="2020-05-06" />
 <meta name="dcterms.Description" content="" />
 
 <!-- Twitter Card -->
@@ -264,15 +264,18 @@
     mu.currentTime = 0;
     loadUrl("../../cyber-grany/1-grandma-got-the-ssh-keys/"); return false;
   });
+  mu.onplaying = function() {
+    pauseButton.innerHTML = "Pause";
+    pauseButton.classList.remove("fa-play");
+    pauseButton.classList.add("fa-pause");
+    spincover.classList.add("spinnit");
+    spincover.classList.remove("paused");
+  }; 
 
   pauseButton.addEventListener("click", function () {
     if (mu.paused) {
       mu.play();
-      pauseButton.innerHTML = "Pause";
-      pauseButton.classList.remove("fa-play");
-      pauseButton.classList.add("fa-pause");
-      spincover.classList.add("spinnit");
-      spincover.classList.remove("paused");
+
     }
     else {
       mu.pause();
