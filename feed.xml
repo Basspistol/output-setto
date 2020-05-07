@@ -21,6 +21,7 @@
 				
 				<pubDate>Sun, 19 Apr 2020 07:07:00 +0000</pubDate>
 				<link>https://setto.basspistol.com/live-with-hardware/</link>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setto.basspistol.com/assets/albums/live-with-hardware/1-ep-life-of-a-dudelini.jpeg" />
 				<guid isPermaLink="true">https://setto.basspistol.com/live-with-hardware/</guid>
 			</item>
 		
@@ -32,6 +33,7 @@
 				
 				<pubDate>Thu, 12 Dec 2019 03:03:00 +0000</pubDate>
 				<link>https://setto.basspistol.com/cyber-grany/</link>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setto.basspistol.com/assets/albums/cyber-grany/1-grandma-got-the-ssh-keys.jpeg" />
 				<guid isPermaLink="true">https://setto.basspistol.com/cyber-grany/</guid>
 			</item>
 		
@@ -43,6 +45,7 @@
 				
 				<pubDate>Thu, 07 Feb 2019 19:07:00 +0000</pubDate>
 				<link>https://setto.basspistol.com/darkweb/</link>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setto.basspistol.com/assets/img/darkweb.jpg" />
 				<guid isPermaLink="true">https://setto.basspistol.com/darkweb/</guid>
 			</item>
 		
@@ -54,6 +57,7 @@
 				
 				<pubDate>Mon, 17 Dec 2018 19:00:00 +0000</pubDate>
 				<link>https://setto.basspistol.com/satoshi-mon-ami/</link>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://setto.basspistol.com/assets/img/satoshimonami.jpg" />
 				<guid isPermaLink="true">https://setto.basspistol.com/satoshi-mon-ami/</guid>
 			</item>
 		
