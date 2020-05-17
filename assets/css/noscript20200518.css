@@ -286,9 +286,9 @@ audio { margin: 0; width: 100%; }
 
 #plList { margin: 0; }
 
-#plList li { background-color: rgba(0, 0, 0, 0.25); cursor: pointer; margin: 0; padding: 21px 0; border: 1px solid black; border-top: 0; }
+#plList li { background-color: rgba(0, 0, 0, 0.25); cursor: pointer; margin: 0; padding: 21px 0; border: 1px solid black; border-top: 0; transition: all 400ms ease-in-out; }
 
-#plList li:hover { background-color: rgba(0, 0, 0, 0.075); }
+#plList li:hover { background-color: rgba(0, 0, 0, 0.075); transition: all 400ms ease-in-out; }
 
 .plItem { position: relative; }
 
