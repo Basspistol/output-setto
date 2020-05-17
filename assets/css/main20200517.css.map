@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "main.css",
+	"file": "main20200517.css",
 	"sources": [
-		"main.scss",
+		"main20200517.scss",
 		"_sass/libs/_vars.scss",
 		"_sass/libs/_functions.scss",
 		"_sass/libs/_mixins.scss",

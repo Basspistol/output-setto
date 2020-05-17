@@ -70,7 +70,7 @@
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-<link rel="stylesheet" href="./assets/css/main.css" />
+<link rel="stylesheet" href="./assets/css/main20200517.css" />
 
 <link rel="apple-touch-icon" href="https://setto.basspistol.com/apple-touch-icon.png" />
 <link rel="icon" type="image/png" href="https://setto.basspistol.com/touch-icon.png" sizes="192x192" />
@@ -137,7 +137,7 @@ https://setto.basspistol.com/cookies/
 https://setto.basspistol.com/feed.xml
 https://setto.basspistol.com/hw-jam/
 https://setto.basspistol.com/
-https://setto.basspistol.com/assets/css/main.css
+https://setto.basspistol.com/assets/css/main20200517.css
 https://setto.basspistol.com/assets/css/noscript.css
 https://setto.basspistol.com/robots.txt
 https://setto.basspistol.com/rss.xml
@@ -145,7 +145,7 @@ https://setto.basspistol.com/search.json
 https://setto.basspistol.com/sitemap.txt
 https://setto.basspistol.com/webcreds/
 https://setto.basspistol.com/sitemap.xml
-https://setto.basspistol.com/assets/css/main.css.map
+https://setto.basspistol.com/assets/css/main20200517.css.map
 https://setto.basspistol.com/assets/css/noscript.css.map
 
 https://setto.basspistol.com/live-with-hardware/
