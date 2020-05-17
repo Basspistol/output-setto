@@ -2405,7 +2405,9 @@ body.is-preload .items.onload-fade-in > * > .inner { opacity: 0; }
 /* Navigation */
 .logo { z-index: 10; text-decoration: none; position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 80%; height: 15%; background-color: transparent; background-image: url("/assets/setto-logo.svg"); background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: none; border-radius: 20px; }
 
-.sticky { position: fixed; top: 20px; right: 20px; width: 50%; height: 10%; background-color: #111111; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.075); }
+.sticky { position: fixed; top: 20px; right: 20px; width: 50%; height: 10%; background-color: #111111; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.075); -webkit-filter: blur(5px); -moz-filter: blur(5px); -ms-filter: blur(5px); -o-filter: blur(5px); filter: blur(5px); }
+
+.sticky:hover { -webkit-filter: blur(0px); -moz-filter: blur(0px); -ms-filter: blur(0px); -o-filter: blur(0px); filter: blur(0px); }
 
 @media only screen and (min-width: 769px) { .logo { position: absolute; top: 20px; right: 20px; width: 25%; height: 15%; background-color: transparent; background-image: url("/assets/setto-logo.svg"); background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: none; border-radius: 20px; }
   .sticky { position: fixed; top: 20px; right: 20px; width: 20%; height: 10%; background-color: #111111; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.075); } }
@@ -2548,4 +2550,4 @@ a[id^="btn"]::-moz-focus-inner { border: 0; padding: 0; }
 
 #noJSalbum { display: none; }
 
-/*# sourceMappingURL=main20200517-rev1.css.map */
+/*# sourceMappingURL=main20200518.css.map */
