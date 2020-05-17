@@ -74,21 +74,15 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 <link rel="stylesheet" href="../assets/css/main.css" />
-
 <link rel="apple-touch-icon" href="https://setto.basspistol.com/apple-touch-icon.png" />
 <link rel="icon" type="image/png" href="https://setto.basspistol.com/touch-icon.png" sizes="192x192" />
 <link rel="shortcut icon" href="https://setto.basspistol.com/assets/img/setto_icon.png" type="image/png" />
 <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 </head>
-
 <body class="is-preload" id="body">
-  <span id="top" style="display: none;"></span>
-  <!-- Wrapper -->
-  <div id="wrapper" class="divided" data-cms-content-wrapper="/_layouts/default.html">
-    
-
-
-
+<span id="top" style="display: none;"></span>
+<!-- Wrapper -->
+<div id="wrapper" class="divided">
 
 <!-- Banner -->
 <section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center" style="height:100vh;background-color: rgba(13,13,13,0.85);">
@@ -153,7 +147,7 @@
         <!-- Content -->
         <div class="content">
           <div style="font-family: monospace;font-size: 16px;">
-          <p>There is a weird meta-core to anything social exchange on internet that I can’t get my finger on. Assumptions and projections that I think partially stem from the lack in body language and the fact that we tend to be alone with our devices when we exchange. Even when we do so while our physical self is in a room full of friends. One of it’s symptoms is the <em>endorsement paradox,</em> for lack of better words. At some point it was common to see Twitter bios with the line <em>“retweets != Endorsement”.</em> It might have a better name, but that “endorsement paradox” is something I feel heavily used as a propaganda strategy. The thing is, there is always someone in anyone’s acquaintances that will resonate to shared info and critique in unexpected ways. For example some unspeakable parties triggered everyone to a point where everyone got so obsessed that everyone kept talking about those parties non stop. Basically taking said unspeakable parties out of the void they were in, and promoting them into a mass that had to be accounted for. I’m not saying unspeakable party propaganda should be ignored, but I think some information is better dissected away from public spaces where there is no control over the dimension of time since the discussion can keep on forever, even when everyone involved at first have moved on. Like that which happened to 4chan.</p>
+            <p>There is a weird meta-core to anything social exchange on internet that I can’t get my finger on. Assumptions and projections that I think partially stem from the lack in body language and the fact that we tend to be alone with our devices when we exchange. Even when we do so while our physical self is in a room full of friends. One of it’s symptoms is the <em>endorsement paradox,</em> for lack of better words. At some point it was common to see Twitter bios with the line <em>“retweets != Endorsement”.</em> It might have a better name, but that “endorsement paradox” is something I feel heavily used as a propaganda strategy. The thing is, there is always someone in anyone’s acquaintances that will resonate to shared info and critique in unexpected ways. For example some unspeakable parties triggered everyone to a point where everyone got so obsessed that everyone kept talking about those parties non stop. Basically taking said unspeakable parties out of the void they were in, and promoting them into a mass that had to be accounted for. I’m not saying unspeakable party propaganda should be ignored, but I think some information is better dissected away from public spaces where there is no control over the dimension of time since the discussion can keep on forever, even when everyone involved at first have moved on. Like that which happened to 4chan.</p>
 
 <p>It takes at least 2 to have a dialogue. And to achieve that plurality in cyberspace seems to require a lot of effort. Probably due to that aforementioned conflict between solitude and time-traversing company. “Company” as in being accompanied and time-traversing because what we record today can be used in the future, and in the future we might use recordings from the past.</p>
 
@@ -161,7 +155,7 @@
 
 <p>Audio extracted from the 360 video of <a href="/hw-jam/">this jam</a> recorded a while back.</p>
 
-          <p></p>
+            <p></p>
           </div>
           
           <!-- HERE BEGINS MADNESS -->
@@ -172,26 +166,32 @@
           
           <!-- Content -->
           <div class="content">
-
-            
-
-            
-            <p style="margin-bottom: 30px;">
-              <a href="../live-with-hardware/1-ep-life-of-a-dudelini" title="Play EP-Life of a Dudelini" alt="Play EP-Life of a Dudelini" class="icon style2 solid player fa-play"></a> <a href="../live-with-hardware/1-ep-life-of-a-dudelini" title="Play EP-Life of a Dudelini" alt="Play EP-Life of a Dudelini" style="text-decoration: none;"><strong>1. EP-Life of a Dudelini</strong> </a>
-              <br /><span id="eplifeofadudelini" style="font-family: monospace;font-size: 14px"></span> | 
-              <span style="font-family: monospace;font-size: 14px">Cybersoul </span>
-            </p>
-            
-            <script type="text/javascript">
-              var eplifeofadudelinitimestamp = 683;
-              var eplifeofadudelinihours = Math.floor(eplifeofadudelinitimestamp / 60 / 60);
-              var eplifeofadudeliniminutes = Math.floor(eplifeofadudelinitimestamp / 60) - (eplifeofadudelinihours * 60);
-              var eplifeofadudeliniseconds = eplifeofadudelinitimestamp % 60;
-              var eplifeofadudeliniformatted = eplifeofadudelinihours.toString().padStart(2, '0') + ':' + eplifeofadudeliniminutes.toString().padStart(2, '0') + ':' + eplifeofadudeliniseconds.toString().padStart(2, '0');
-              var theSpan = document.getElementById("eplifeofadudelini");
-              theSpan.innerHTML = eplifeofadudeliniformatted;
-            </script>
-            
+            <div id="mainwrap">
+              <div id="nowPlay">
+                <p class="right" id="npTitle" style="font-weight: bold;"></p>
+                <p class="left" id="npAction">Paused...</p>
+              </div>
+              <div id="audiowrap">
+                <div id="audio0">
+                  <audio id="audio1" controls="controls">Your browser does not support HTML5
+                    Audio!</audio>
+                </div>
+                
+              </div>
+              <div id="plwrap">
+                <ul id="plList">
+                  
+                  <li> 
+                    <div class="plItem">
+                      <div class="plNum">1.</div>
+                      <div class="plTitle">EP-Life of a Dudelini</div>
+                      <div class="plLength">11:23</div>
+                    </div>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -360,15 +360,15 @@
   </div>
 </footer>
 
-  </div>
-  <!-- Navigation -->
+</div>
+<!-- Navigation -->
 
 <a id="logo" alt="Back to home page" title="Back to home page" class="logo" href="/">&nbsp;</a>
 
 
 
 <!-- End Navigation -->
-  <!-- Scripts -->
+<!-- Scripts -->
 
 
 
@@ -388,7 +388,108 @@
   else
       window.location = '/en/';
 </script> -->
-  
+
+
+<script type="text/javascript">
+  // html5media enables <video> and <audio> tags in all major browsers
+  // External File: http://api.html5media.info/1.1.8/html5media.min.js
+
+
+  // Add user agent as an attribute on the <html> tag...
+  // Inspiration: http://css-tricks.com/ie-10-specific-styles/
+  var b = document.documentElement;
+  b.setAttribute('data-useragent', navigator.userAgent);
+  b.setAttribute('data-platform', navigator.platform);
+
+
+  // HTML5 audio player + playlist controls...
+  // Inspiration: http://jonhall.info/how_to/create_a_playlist_for_html5_audio
+  // Mythium Archive: https://archive.org/details/mythium/
+  jQuery(function ($) {
+    var supportsAudio = !!document.createElement('audio').canPlayType;
+    if (supportsAudio) {
+      var index = 0,
+        playing = false,
+        mediaPath = '',
+        extension = '',
+        tracks = [{ 
+          "track": 1,
+          "name": "EP-Life of a Dudelini",
+          "length": "11:23",
+          "file": "/assets/albums/live-with-hardware/1-ep-life-of-a-dudelini"
+        }],
+        trackCount = tracks.length,
+        npAction = $('#npAction'),
+        npTitle = $('#npTitle'),
+        audio = $('#audio1').bind('play', function () {
+          playing = true;
+          npAction.text('Playing...');
+        }).bind('pause', function () {
+          playing = false;
+          npAction.text('Paused...');
+        }).bind('ended', function () {
+          npAction.text('Paused...');
+          if ((index + 1) < trackCount) {
+            index++;
+            loadTrack(index);
+            audio.play();
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }).get(0),
+        btnPrev = $('#btnPrev').click(function () {
+          if ((index - 1) > -1) {
+            index--;
+            loadTrack(index);
+            if (playing) {
+              audio.play();
+            }
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }),
+        btnNext = $('#btnNext').click(function () {
+          if ((index + 1) < trackCount) {
+            index++;
+            loadTrack(index);
+            if (playing) {
+              audio.play();
+            }
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }),
+        li = $('#plList li').click(function () {
+          var id = parseInt($(this).index());
+          if (id !== index) {
+            playTrack(id);
+          }
+        }),
+        loadTrack = function (id) {
+          $('.plSel').removeClass('plSel');
+          $('#plList li:eq(' + id + ')').addClass('plSel');
+          npTitle.text(tracks[id].name);
+          index = id;
+          audio.src = mediaPath + tracks[id].file + extension;
+        },
+        playTrack = function (id) {
+          loadTrack(id);
+          audio.play();
+        };
+      extension = audio.canPlayType('audio/mpeg') ? '.mp3' : audio.canPlayType('audio/ogg') ? '.ogg' : '';
+      loadTrack(index);
+    }
+  });
+
+</script>
+
+
 <div id="cookie-notice">
   <p>The cookies here don't contain any identifiable information about you: they just let me know if you comeback. <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away without cookies.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
     <a class="button small yes" href="#" id="cookie-notice-accept">I'm in!</a>

@@ -74,21 +74,15 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 <link rel="stylesheet" href="../assets/css/main.css" />
-
 <link rel="apple-touch-icon" href="https://setto.basspistol.com/apple-touch-icon.png" />
 <link rel="icon" type="image/png" href="https://setto.basspistol.com/touch-icon.png" sizes="192x192" />
 <link rel="shortcut icon" href="https://setto.basspistol.com/assets/img/setto_icon.png" type="image/png" />
 <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
 </head>
-
 <body class="is-preload" id="body">
-  <span id="top" style="display: none;"></span>
-  <!-- Wrapper -->
-  <div id="wrapper" class="divided" data-cms-content-wrapper="/_layouts/default.html">
-    
-
-
-
+<span id="top" style="display: none;"></span>
+<!-- Wrapper -->
+<div id="wrapper" class="divided">
 
 <!-- Banner -->
 <section class="banner onload-image-fade-in onload-content-fade-right style2 fullscreen content-align-center image-position-center" style="height:100vh;background-color: rgba(13,13,13,0.85);">
@@ -153,11 +147,11 @@
         <!-- Content -->
         <div class="content">
           <div style="font-family: monospace;font-size: 16px;">
-          <p>The 2 tracks of laid back cloud rap are tales of daily digital life-struggles. When day-to-day communication blurs the line between the virtual and real.</p>
+            <p>The 2 tracks of laid back cloud rap are tales of daily digital life-struggles. When day-to-day communication blurs the line between the virtual and real.</p>
 
 <p>Being close to someone, without them knowing, anonymously and obsessively through a device. Decrypting interconnected sub-stories from every node in the graph and losing your mind on it.What’s the latest story? FOMO to the max, The Fear Of Missing Out!</p>
 
-          <p></p>
+            <p></p>
           </div>
           
           <!-- HERE BEGINS MADNESS -->
@@ -165,42 +159,45 @@
           
           <!-- Content -->
           <div class="content">
-
-            
-
-            
-            <p style="margin-bottom: 30px;">
-              <a href="../satoshi-mon-ami/1-k-as-tu-fait-de-nous-" title="Play K'as-tu fait de nous?" alt="Play K'as-tu fait de nous?" class="icon style2 solid player fa-play"></a> <a href="../satoshi-mon-ami/1-k-as-tu-fait-de-nous-" title="Play K'as-tu fait de nous?" alt="Play K'as-tu fait de nous?" style="text-decoration: none;"><strong>1. K'as-tu fait de nous?</strong> </a>
-              <br /><span id="kastufaitdenous" style="font-family: monospace;font-size: 14px"></span> | 
-              <span style="font-family: monospace;font-size: 14px">Cyber Soul </span>
-            </p>
-            
-            <script type="text/javascript">
-              var kastufaitdenoustimestamp = 305;
-              var kastufaitdenoushours = Math.floor(kastufaitdenoustimestamp / 60 / 60);
-              var kastufaitdenousminutes = Math.floor(kastufaitdenoustimestamp / 60) - (kastufaitdenoushours * 60);
-              var kastufaitdenousseconds = kastufaitdenoustimestamp % 60;
-              var kastufaitdenousformatted = kastufaitdenoushours.toString().padStart(2, '0') + ':' + kastufaitdenousminutes.toString().padStart(2, '0') + ':' + kastufaitdenousseconds.toString().padStart(2, '0');
-              var theSpan = document.getElementById("kastufaitdenous");
-              theSpan.innerHTML = kastufaitdenousformatted;
-            </script>
-            
-            <p style="margin-bottom: 30px;">
-              <a href="../satoshi-mon-ami/2-r-ve-de-toi" title="Play Rêve de toi" alt="Play Rêve de toi" class="icon style2 solid player fa-play"></a> <a href="../satoshi-mon-ami/2-r-ve-de-toi" title="Play Rêve de toi" alt="Play Rêve de toi" style="text-decoration: none;"><strong>2. Rêve de toi</strong> </a>
-              <br /><span id="rêvedetoi" style="font-family: monospace;font-size: 14px"></span> | 
-              <span style="font-family: monospace;font-size: 14px">Cyber Soul </span>
-            </p>
-            
-            <script type="text/javascript">
-              var rêvedetoitimestamp = 186;
-              var rêvedetoihours = Math.floor(rêvedetoitimestamp / 60 / 60);
-              var rêvedetoiminutes = Math.floor(rêvedetoitimestamp / 60) - (rêvedetoihours * 60);
-              var rêvedetoiseconds = rêvedetoitimestamp % 60;
-              var rêvedetoiformatted = rêvedetoihours.toString().padStart(2, '0') + ':' + rêvedetoiminutes.toString().padStart(2, '0') + ':' + rêvedetoiseconds.toString().padStart(2, '0');
-              var theSpan = document.getElementById("rêvedetoi");
-              theSpan.innerHTML = rêvedetoiformatted;
-            </script>
-            
+            <div id="mainwrap">
+              <div id="nowPlay">
+                <p class="right" id="npTitle" style="font-weight: bold;"></p>
+                <p class="left" id="npAction">Paused...</p>
+              </div>
+              <div id="audiowrap">
+                <div id="audio0">
+                  <audio id="audio1" controls="controls">Your browser does not support HTML5
+                    Audio!</audio>
+                </div>
+                
+                <div id="tracks">
+                  <a id="btnPrev"><span class="icon solid fa-backward"></span></a>
+                  <a id="btnNext"><span class="icon solid fa-forward"></span></a>
+                </div>
+                
+              </div>
+              <div id="plwrap">
+                <ul id="plList">
+                  
+                  <li> 
+                    <div class="plItem">
+                      <div class="plNum">1.</div>
+                      <div class="plTitle">K'as-tu fait de nous?</div>
+                      <div class="plLength">5:5</div>
+                    </div>
+                  </li>
+                  
+                  <li> 
+                    <div class="plItem">
+                      <div class="plNum">2.</div>
+                      <div class="plTitle">Rêve de toi</div>
+                      <div class="plLength">3:6</div>
+                    </div>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </section>
@@ -383,15 +380,15 @@
   </div>
 </footer>
 
-  </div>
-  <!-- Navigation -->
+</div>
+<!-- Navigation -->
 
 <a id="logo" alt="Back to home page" title="Back to home page" class="logo" href="/">&nbsp;</a>
 
 
 
 <!-- End Navigation -->
-  <!-- Scripts -->
+<!-- Scripts -->
 
 
 
@@ -411,7 +408,113 @@
   else
       window.location = '/en/';
 </script> -->
-  
+
+
+<script type="text/javascript">
+  // html5media enables <video> and <audio> tags in all major browsers
+  // External File: http://api.html5media.info/1.1.8/html5media.min.js
+
+
+  // Add user agent as an attribute on the <html> tag...
+  // Inspiration: http://css-tricks.com/ie-10-specific-styles/
+  var b = document.documentElement;
+  b.setAttribute('data-useragent', navigator.userAgent);
+  b.setAttribute('data-platform', navigator.platform);
+
+
+  // HTML5 audio player + playlist controls...
+  // Inspiration: http://jonhall.info/how_to/create_a_playlist_for_html5_audio
+  // Mythium Archive: https://archive.org/details/mythium/
+  jQuery(function ($) {
+    var supportsAudio = !!document.createElement('audio').canPlayType;
+    if (supportsAudio) {
+      var index = 0,
+        playing = false,
+        mediaPath = '',
+        extension = '',
+        tracks = [{ 
+          "track": 1,
+          "name": "K'as-tu fait de nous?",
+          "length": "5:5",
+          "file": "/assets/albums/satoshi-mon-ami/1-k-as-tu-fait-de-nous-"
+        },{ 
+          "track": 2,
+          "name": "Rêve de toi",
+          "length": "3:6",
+          "file": "/assets/albums/satoshi-mon-ami/2-r-ve-de-toi"
+        }],
+        trackCount = tracks.length,
+        npAction = $('#npAction'),
+        npTitle = $('#npTitle'),
+        audio = $('#audio1').bind('play', function () {
+          playing = true;
+          npAction.text('Playing...');
+        }).bind('pause', function () {
+          playing = false;
+          npAction.text('Paused...');
+        }).bind('ended', function () {
+          npAction.text('Paused...');
+          if ((index + 1) < trackCount) {
+            index++;
+            loadTrack(index);
+            audio.play();
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }).get(0),
+        btnPrev = $('#btnPrev').click(function () {
+          if ((index - 1) > -1) {
+            index--;
+            loadTrack(index);
+            if (playing) {
+              audio.play();
+            }
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }),
+        btnNext = $('#btnNext').click(function () {
+          if ((index + 1) < trackCount) {
+            index++;
+            loadTrack(index);
+            if (playing) {
+              audio.play();
+            }
+          } else {
+            audio.pause();
+            index = 0;
+            loadTrack(index);
+          }
+        }),
+        li = $('#plList li').click(function () {
+          var id = parseInt($(this).index());
+          if (id !== index) {
+            playTrack(id);
+          }
+        }),
+        loadTrack = function (id) {
+          $('.plSel').removeClass('plSel');
+          $('#plList li:eq(' + id + ')').addClass('plSel');
+          npTitle.text(tracks[id].name);
+          index = id;
+          audio.src = mediaPath + tracks[id].file + extension;
+        },
+        playTrack = function (id) {
+          loadTrack(id);
+          audio.play();
+        };
+      extension = audio.canPlayType('audio/mpeg') ? '.mp3' : audio.canPlayType('audio/ogg') ? '.ogg' : '';
+      loadTrack(index);
+    }
+  });
+
+</script>
+
+
 <div id="cookie-notice">
   <p>The cookies here don't contain any identifiable information about you: they just let me know if you comeback. <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away without cookies.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
     <a class="button small yes" href="#" id="cookie-notice-accept">I'm in!</a>
