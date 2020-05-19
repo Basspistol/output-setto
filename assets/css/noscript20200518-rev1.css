@@ -161,6 +161,8 @@ body.is-preload .banner.onload-image-fade-in .image img { opacity: 1; }
 /* Navigation */
 .logo { z-index: 10; text-decoration: none; position: absolute; top: 20px; left: 50%; transform: translateX(-50%); width: 80%; height: 15%; background-color: transparent; background-image: url("/assets/setto-logo.svg"); background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: none; border-radius: 20px; -webkit-filter: blur(15px); -moz-filter: blur(15px); -ms-filter: blur(15px); -o-filter: blur(15px); filter: blur(15px); }
 
+.logo:hover { -webkit-filter: blur(0px); -moz-filter: blur(0px); -ms-filter: blur(0px); -o-filter: blur(0px); filter: blur(0px); }
+
 .sticky { position: fixed; top: 20px; right: 20px; width: 50%; height: 10%; background-color: #111111; background-repeat: no-repeat; background-position: center center; background-size: 95% 95%; -webkit-transition: all 400ms ease-in; -moz-transition: all 400ms ease-in; transition: all 400ms ease-in; box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.075); -webkit-filter: blur(0px); -moz-filter: blur(0px); -ms-filter: blur(0px); -o-filter: blur(0px); filter: blur(0px); }
 
 .sticky:hover { -webkit-filter: blur(0px); -moz-filter: blur(0px); -ms-filter: blur(0px); -o-filter: blur(0px); filter: blur(0px); }
