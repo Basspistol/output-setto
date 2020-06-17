@@ -17,7 +17,7 @@
 <meta property="og:url" content="https://setto.basspistol.com/search.json" />
 <meta property="og:site_name" content="徒 setto セット" />
 <script type="application/ld+json">
-{"@type":"WebPage","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://setto.basspistol.com/assets/img/setto_icon.png"},"name":"徒 Setto セット"},"url":"https://setto.basspistol.com/search.json","headline":"徒 setto セット","dateModified":"2020-04-06T09:09:45+00:00","author":{"@type":"Person","name":"徒 Setto セット"},"description":"Set, Party, Gang! #Cybersoul","@context":"https://schema.org"}</script>
+{"description":"Set, Party, Gang! #Cybersoul","@type":"WebPage","headline":"徒 setto セット","dateModified":"2020-06-17T11:36:00+00:00","url":"https://setto.basspistol.com/search.json","author":{"@type":"Person","name":"徒 Setto セット"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://setto.basspistol.com/assets/img/setto_icon.png"},"name":"徒 Setto セット"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link type="application/atom+xml" rel="alternate" href="https://setto.basspistol.com/feed.xml" title="" />
@@ -26,7 +26,7 @@
 <title> | 徒 setto セット</title>
 <meta name="title" content=" | 徒 setto セット" />
 
-<meta name="dc.date.modified" scheme="ISO8601" content="2020-04-06T09:09:45+00:00" />
+<meta name="dc.date.modified" scheme="ISO8601" content="2020-06-17T11:36:00+00:00" />
 <meta name="robots" content="index" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="canonical" href="https://setto.basspistol.com/search.json" />
@@ -50,7 +50,7 @@
 <meta name="dcterms.Title" content=" | 徒 setto セット" />
 
 <meta name="dcterms.Contributor" content="徒 setto セット" />
-<meta name="dcterms.Date" content="2020-05-27" />
+<meta name="dcterms.Date" content="2020-06-17" />
 <meta name="dcterms.Description" content="" />
 
 <!-- Twitter Card -->
@@ -215,7 +215,7 @@
 </script> -->
   
 <div id="cookie-notice">
-  <p>The cookies here don't contain any identifiable information about you: they just let me know if you comeback. <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away without cookies.  <br />Read more about how basspistol <a href="/cookies/">uses cookies</a> </p>
+  <p>I only use cookies if you consent to it. They don't contain any identifiable info: they just let me know if you enjoyed this enough to come back. <br />Click <a href="#" id="cookie-notice-decline">here</a> if you want this shit to go away without cookies.  <br />Read more about how me & basspistol <a href="/cookies/">use cookies</a> </p>
     <a class="button small yes" href="#" id="cookie-notice-accept">I'm in!</a>
 </div>
 
