@@ -50,7 +50,7 @@
 <meta name="dcterms.Title" content="The Basspistol RSS Feed | 徒 setto セット" />
 
 <meta name="dcterms.Contributor" content="徒 setto セット" />
-<meta name="dcterms.Date" content="2020-06-29" />
+<meta name="dcterms.Date" content="2020-07-17" />
 <meta name="dcterms.Description" content="" />
 
 <!-- Twitter Card -->
@@ -78,7 +78,7 @@
 <noscript><link rel="stylesheet" href="./assets/css/noscript20200518-rev1.css" /></noscript>
 </head>
 
-<body class="is-preload" id="body">
+<body id="body">
   <span id="top" style="display: none;"></span>
   <!-- Wrapper -->
   <div id="wrapper" class="divided" data-cms-content-wrapper="/_layouts/default.html">
